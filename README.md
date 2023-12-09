@@ -1,15 +1,16 @@
-# 广告过滤规则
-## My AdFilters （for PC）  
-【不稳定】https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt  
-【较稳定】https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt
+## 订阅来源地址
+[217heidai/adblockfilters](https://github.com/217heidai/adblockfilters)    
+[Cats-Team/AdRules](https://github.com/Cats-Team/AdRules)
 
-## edentwCustom  
-【不稳定】https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-edentw.txt   
-【较稳定】https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-edentw.txt
+
+## AdBlock Filters
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
+
+## AdBlock DNS
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 
 ## AdRules AdBlock List Plus
-【不稳定】https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt  
-【较稳定】https://adrules.top/adblock_plus.txt
+https://adrules.top/adblock_plus.txt
 
 ## 阅读订阅（一程）  
 https://www.gitlink.org.cn/api/yi-c/yd/raw/dy.json?ref=master
