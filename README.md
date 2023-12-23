@@ -1,6 +1,7 @@
 ## 订阅来源地址
 [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters)    
-[Cats-Team/AdRules](https://github.com/Cats-Team/AdRules)
+[Cats-Team/AdRules](https://github.com/Cats-Team/AdRules)  
+[privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD)
 
 
 ## AdBlock Filters
