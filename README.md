@@ -4,10 +4,10 @@
 
 
 ## AdBlock Filters
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
+https://ghfast.top/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
 
 ## AdBlock DNS
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
+https://ghfast.top/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 
 ## AdRules AdBlock List Plus
 https://bitbucket.org/hacamer/adrules/raw/main/adblock_plus.txt
