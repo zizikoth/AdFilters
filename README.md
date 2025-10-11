@@ -1,19 +1,23 @@
-## 订阅来源地址
-[217heidai/adblockfilters](https://github.com/217heidai/adblockfilters)    
-[Cats-Team/AdRules](https://github.com/Cats-Team/AdRules)  
+
+# [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters)
+#### AdBlock Filters
+【完整版】https://ghfast.top/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt  
+【国内精简】https://ghfast.top/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
+##### AdBlock DNS
+【完整版】https://ghfast.top/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt  
+【国内精简】https://ghfast.top/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
 
 
-## AdBlock Filters
-https://ghfast.top/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
+# [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules)
+【完整版】https://adrules.top/adblock_plus.txt  
+【国内精简】https://adrules.top/adblock_lite.txt
 
-## AdBlock DNS
-https://ghfast.top/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 
-## AdRules AdBlock List Plus
-https://bitbucket.org/hacamer/adrules/raw/main/adblock_plus.txt
+# [sbwml/halflife-list](https://github.com/sbwml/halflife-list)
+【桌面端】https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt  
+【移动端】https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt
 
-## HalfLife
-https://cdn.jsdelivr.net/gh/o0HalfLife0o/list/ad3.txt
+---
 
-## 阅读订阅（一程）  
-https://www.gitlink.org.cn/api/yi-c/yd/raw/dy.json?ref=master
+# [阅读APP源](https://legado.aoaostar.com/)
+https://legado.aoaostar.com/
