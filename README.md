@@ -2,16 +2,10 @@
 # [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters)
 #### AdBlock Filters
 【完整版】https://ghfast.top/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt  
-【国内精简】https://ghfast.top/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
+【国内精简】https://github.boki.moe/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
 ##### AdBlock DNS
 【完整版】https://ghfast.top/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt  
-【国内精简】https://ghfast.top/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-
-
-# [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules)
-【完整版】https://adrules.top/adblock_plus.txt  
-【国内精简】https://adrules.top/adblock_lite.txt
-
+【国内精简】https://github.boki.moe/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
 
 # [sbwml/halflife-list](https://github.com/sbwml/halflife-list)
 【桌面端】https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt  
