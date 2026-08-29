@@ -10,6 +10,12 @@
 
 【国内精简】https://github.boki.moe/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
 
+
+# [Anti-AD](https://anti-ad.net/)
+#### Anti-AD
+【完整版】https://anti-ad.net/adguard.txt
+
+
 # [sbwml/halflife-list](https://github.com/sbwml/halflife-list)
 【桌面端】https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt  
 
